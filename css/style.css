@@ -1,0 +1,32 @@
+header{
+	background-color: #fcdb00;
+}
+.mainmenu{
+	padding:30px 0;
+}
+.slider-contents{
+	padding:20px 0;
+}
+
+.content{}
+.content h1{
+	font-size:36px;
+}
+.content h3{
+	font-size:22px;
+	font-weight:normal;
+}
+.content p{
+	font-size: 16px;
+}
+.header-icons ul{}
+.header-icons ul li{
+	font-size:42px;
+	margin-right:20px;
+}
+.header-icons ul li:last-child{
+	margin-right:0;
+}
+.header-icons ul li i{
+	
+}
